@@ -1,0 +1,5 @@
+Todo.create(:task => "Move with Lil to the black mountain hills of Dakota", :completed => 0)
+Todo.create(:task => "Lose Lil to Danny", :completed => 0)
+Todo.create(:task => "Get hit in the eye by Danny", :completed => 0)
+Todo.create(:task => "Walk into town seeking revenge", :completed => 0)
+Todo.create(:task => "Check into room and read Gideon's bible", :completed => 0)
